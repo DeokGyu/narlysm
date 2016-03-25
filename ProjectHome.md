@@ -1,0 +1,1 @@
+Why another disassembly library? Because I felt like it.  Mainly because I want to learn more about this sort of thing, and I'll probably end up using this in my narly project.
